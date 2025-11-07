@@ -1,0 +1,2 @@
+This is a small demo file.
+Numbers summary: {'min': 0.5, 'max': 5.0, 'mean': 2.75}
